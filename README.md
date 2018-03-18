@@ -1,10 +1,10 @@
 # Udacity FSND Project - Catalog Application
-The project creates a catalog database, populates it with some sample data and demonstrates CRUD operations and 3rdparty authentication. The project is based on the Flask framework. The project contains the following content
+The project creates a catalog database, populates it with some sample data and demonstrates CRUD operations and 3rdparty authentication. The project is based on the Flask framework. The starting point for this project was the class Restaurnt project and the authentication has been used from that project. The project contains the following content
 * **database_setup_catalog.py**  - Python script to create the catalog.db.
 * **sampledata.py** - Python script to add sample data to the database
 * **project.py** - Main application python script
-* **client_secrets.json** - File containing Google authentication informations
-* **fb_client_secrets.json** - File containing Facebook authentication informations
+* **client_secrets.json** - File containing Google authentication information
+* **fb_client_secrets.json** - File containing Facebook authentication information
 * **README.md** -  This file specifies details about the project and how to run and access the application.
 * **catalog.json** - This file contains the sample JSON endpoint output.
 * **catalog.db** - Sample Database to launch the application directly
