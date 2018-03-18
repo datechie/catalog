@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7.12
 from flask import Flask
 from flask import render_template, request, redirect, url_for, flash, jsonify
-from sqlalchemy import create_engine, asc, DateTime, func, desc
+from sqlalchemy import create_engine, desc
 from sqlalchemy.orm import sessionmaker
 from database_setup_catalog import Category, Base, CategoryItem, User
 from datetime import timedelta, datetime
