@@ -35,7 +35,7 @@ The project creates a catalog database, populates it with some sample data and d
 - Create the database (catalog.db)
 - `python database_setup_catalog.py` **OR** `python2.7 python database_setup_catalog.py`
 - Populate the database with some sampel data
-- `python lotsofcats.py` **OR** `python2.7 python lotsofcats.py`
+- `python sampledata.py` **OR** `python2.7 python sampledata.py`
 
 3. Run the application
 - `python project.py` **OR** `python2.7 project.py`
